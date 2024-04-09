@@ -4,17 +4,17 @@ Es el nombre de cualquier imagen generada por una computadora
 
 Existen 2 tipos:
 1. Mapas de Bits
-2. Graficos vectoriales
+2. Gráficos vectoriales
 
-### Graficos vectoriales:
-Forma de puntos unidos por lineas las cuales presentan un archivo llamado objeto.
+### Gráficos vectoriales:
+Forma de puntos unidos por líneas las cuales presentan un archivo llamado objeto.
 ### Mapas de Bits
 Compuestos de puntos individuales llamados Pixeles los cuales estan dispuestos y coloreados de formas diversas para formar un patron
 * `0`
 * `1`
 Se considera la mas pequeña de las unidades homogéneas en color que componen una imagen de tipo digital.
 ***
-### Matematicas
+### Matemáticas
 * A través de las coordenadas `x`, `y`, `z`
 * Se usan matrices para las perspectivas
 ***
@@ -25,15 +25,15 @@ Se considera la mas pequeña de las unidades homogéneas en color que componen u
 - Despliegue de imágenes 
 ***
 ### Sistema grafico
-Es una aplicacion desarrollada por el programador, estas pueden ser:
+Es una aplicación desarrollada por el programador, estas pueden ser:
 * Juegos
 * Simuladores
-* Apps moviles
+* Apps móviles
 * Sistemas de BD
-* Programas de uso comun
+* Programas de uso común
 ***
-### Areas de aplicacion de los graficos por computadora
-1. Visualizacion de datos
+### Áreas de aplicación de los gráficos por computadora
+1. Visualización de datos
 2. Entornos de realidad virtual
 3. Diseño asistido por una computadora
 4. Arte por una computadora
@@ -53,22 +53,22 @@ Es una aplicacion desarrollada por el programador, estas pueden ser:
 > CAD = Computer Asisted Design
 
 - Diseño de edificios
-- Automoviles, aeronaves, barcos, electrodomesticos y muchos otros productos
+- Automóviles, aeronaves, barcos, electrodomésticos y muchos otros productos
 - Sistemas aerográficos
 #### Arte por una Computadora
 - Bellas artes y de uso
-- Hardware de propositos especiales
-	- Programas artisticos
-	- Software de edicion electronica
-* Edicion de los graficos
-	* Es importante el nivel de precision
+- Hardware de propósitos especiales
+	- Programas artísticos
+	- Software de edición electrónica
+* Edición de los gráficos
+	* Es importante el nivel de precisión
 #### Entretenimiento
 * Medios audiovisuales
-	* Peliculas
+	* Películas
 	* Videos musicales
 	* Juegos
-	* App moviles
+	* App móviles
 	* TV
-* Despliegan imagenes, otras combinan objetos con actores.
-* Metodos de graficos `x` computadora para simular actores humanos
-* Tecnicas de procesamiento de imagenes para transformar una persona a objetos
+* Despliegan imágenes, otras combinan objetos con actores.
+* Métodos de gráficos `x` computadora para simular actores humanos
+* Técnicas de procesamiento de imágenes para transformar una persona a objetos
