@@ -1,7 +1,7 @@
 ### OpenGL
 > Open Graphics Library
 
-Es una especificacion estandar que define una API multilenguaje y multiplataforma que escribe aplicaciones que produzcan graficos 2D y 3D.
+Es una especificación estándar que define una API multilenguaje y multiplataforma que escribe aplicaciones que produzcan gráficos 2D y 3D.
 
 #### <u>Propositos</u>
 1. Ocultar la complejidad de la interfaz con las diferentes tarjetas graficas
@@ -9,15 +9,15 @@ Es una especificacion estandar que define una API multilenguaje y multiplataform
 #### <u>Funcionamiento</u>
 Su funcionamiento consiste en aceptar primitivas:
 * Puntos
-* Lineas
-* Poligonos
+* Líneas
+* Polígonos
 * Pixeles
 #### <u>Proceso de pipeline grafico</u>
 // Aqui va una imagen
 #### <u>Objetos en OpenGL</u>
-Un objeto es una coleccion de operaciones que representa un subconjunto del estado
+Un objeto es una colección de operaciones que representa un subconjunto del estado
 * Establece su tamaño
-* Configuracion de la ventana de dibujo
+* Configuración de la ventana de dibujo
 * Cuantos colores admite
 Sintaxis:
 - `gl`---> todos los comandos
