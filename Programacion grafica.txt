@@ -32,7 +32,7 @@
 			presentes en una pantalla por unidad de longitud, generalmente medida en pulgadas. Indica la nitidez y la calidad
 			visual que en una pantalla puede proporcionar.
 			
-			* En pantallas con una mayor densidad de pixeles, los pixeles individuale son mas pequeños y estan mas cerca unos de 
+			* En pantallas con una mayor densidad de pixeles, los pixeles individuales son mas pequeños y estan mas cerca unos de 
 			otros, lo que resulta en una mayor nitidez y una mayor capacidad para mostrar detalles finos. Por otro lado, en pantallas
 			con una menor densidad de pixeles, los pixeles son mas grandes y estan mas espaciados, lo que puede hacer que los detalles
 			sean menos nitidos y que los elementos de la imagen se vean mas grandes.
