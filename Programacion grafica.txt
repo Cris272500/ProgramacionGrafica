@@ -1,0 +1,57 @@
+-----------> Continuacion de caracteristicas generales
+
+	------------------> Caracteristicas generales de datos raster <------------------
+		* El tamaño de celda determina el grososr o la delgadez con la que apareceran los patrones o las entidades en el
+		raster. Cuando más pequeño sea el tamaño de la celda, más suave o más detalado será el ráster.
+		
+		* Sin embargo, cuanto mayor sea el numero de celdas, mas tiempo tardara en processar, aumentandose a su vez
+		en la demanda de espacio de almacenamiento.
+		
+		
+		------> Proyeccion universal transversal de Mercator (UTM):
+			* Es un sistema de proyeccion cartografico basado en cuadriculas con el cual se pueden referenciar
+			puntos sobre la superficie terrestre
+		
+		------> Dispositivos raster
+			* Impresora de Matriz
+			* Impresora Laser
+			* Monitores
+	
+	------------------> Pixeles <------------------
+		* El termino "pixel" proviene de la contraccion de las palabras "picture" y "element" (elemento de imagen en ingles).
+			
+		* Cada pixel tiene una posicion especifica y esta asociado con un valor que determina su color y brillo. Estos
+		valores pueden representarse en diferentes sistema de color, como RGB (rojo, verde, azul) o CMYK (cian, magenta, 
+		amarillo, negro), dependiendo del dispositivo o el contexto.
+			
+		* Al combinar millones de pixeles en una matriz, se crea una representacion visual completa que los ojos humanos
+		perciben como una imagen continua.
+			
+		------> Densidad de pixeles
+			* La densidad de pixeles, tambien conocida como PPI (pixeles por pulgada), se refiere a la cantidad de pixeles
+			presentes en una pantalla por unidad de longitud, generalmente medida en pulgadas. Indica la nitidez y la calidad
+			visual que en una pantalla puede proporcionar.
+			
+			* En pantallas con una mayor densidad de pixeles, los pixeles individuale son mas pequeños y estan mas cerca unos de 
+			otros, lo que resulta en una mayor nitidez y una mayor capacidad para mostrar detalles finos. Por otro lado, en pantallas
+			con una menor densidad de pixeles, los pixeles son mas grandes y estan mas espaciados, lo que puede hacer que los detalles
+			sean menos nitidos y que los elementos de la imagen se vean mas grandes.
+		
+		------> Resolucion
+			* La resolucion de una imagen o pantalla se refiere a la cantidad de pixeles que la componen. Una mayor resolucion
+			implica una mayor densidad de pixeles, y por lo tanto, una imagen mas detallada y nitida.
+			
+			* Por ejemplo, una pantalla de alta definicion puede tener una resolucion de 1920 x 1080 pixeles, lo que significa
+			que hay 1920 pixeles en el eje horizontal y 1080 pixeles en el eje vertical.
+			
+			------> Estandares de resolucion
+				* Existen varios estandares comunes de resolucion utilizados en imagenes digitales y pantallas.
+				Algunos de ellos incluyen:
+				
+				----> VGA (640 x 480)
+					* Video Graphics Array, es un estandar de resolucion que se utiliza principalmente para pantallas y proyectores
+					de menor calidad.
+				
+				----> HD (High Definition)
+					* Se refiere a varias resoluciones de alta definicion, como 720p (1280 x )
+					// Hasta aqui llegamos
