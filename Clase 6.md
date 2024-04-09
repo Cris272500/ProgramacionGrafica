@@ -14,4 +14,27 @@ Con un raster se generan imagenes mediante una cuadricula rectangular de pixeles
 	* Altura
 		> Estas caracteristicas determinan cuantos colores diferentes para guardar cada pixel
 
-* Los raster son fotogramas aereos digitales o incluso mapas escaneados 
+* Los raster son fotogramas aereos digitales o incluso mapas escaneados
+
+#### <u>Ventajas de almacenar datos en forma de raster</u>
+1. Estructura de datos simples
+2. Formato patente para análisis espacial y estadístico avanzado
+3. Capacidad de representar surpeficies continuas y llevar a cabo analisis de superficie
+4. Capacidad de almacenar
+	* Puntos
+	* Lineas
+	* Poligionos
+	* Superficies
+	de manera uniforme
+5. Capacidad de llevar a cabo superposiciones rapidas con datasets mas complejas.
+
+#### <u>Caracteristicas generales de datos raster</u>
+1. En los datasets raster, cada celda (pixel) posee un valor.
+2. Los valores de cada celda pueden ser
+	- Positivos o negativos
+	- Enteros o de punto flotante
+	#### <u>Positivos</u>
+	Se utilizan para representar datos categoricos o discretos
+	#### <u>Punto flotante</u>
+	Representar las superficies continuas
+	
