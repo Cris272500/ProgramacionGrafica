@@ -8,41 +8,41 @@ Con un raster se generan imagenes mediante una cuadricula rectangular de pixeles
 
 * A la imagen rasterizada se le conoce como **mapa de bits** o bitmap.
 
-* La calidad de un raster se mide por la profundidad de:
+* La calidad de un ráster se mide por la profundidad de:
 	* Color
 	* Ancho
 	* Altura
-		> Estas caracteristicas determinan cuantos colores diferentes para guardar cada pixel
+		> Estas características determinan cuantos colores diferentes para guardar cada pixel
 
-* Los raster son fotogramas aereos digitales o incluso mapas escaneados
+* Los ráster son fotogramas aéreos digitales o incluso mapas escaneados
 
 #### <u>Ventajas de almacenar datos en forma de raster</u>
 1. Estructura de datos simples
 2. Formato patente para análisis espacial y estadístico avanzado
-3. Capacidad de representar surpeficies continuas y llevar a cabo analisis de superficie
+3. Capacidad de representar superficies continuas y llevar a cabo análisis de superficie
 4. Capacidad de almacenar
 	* Puntos
-	* Lineas
-	* Poligionos
+	* Líneas
+	* Polígonos
 	* Superficies
 	de manera uniforme
-5. Capacidad de llevar a cabo superposiciones rapidas con datasets mas complejas.
+5. Capacidad de llevar a cabo superposiciones rápidas con datasets mas complejas.
 ***
 #### <u>Caracteristicas generales de datos raster</u>
-1. En los datasets raster, cada celda (pixel) posee un valor.
+1. En los datasets ráster, cada celda (pixel) posee un valor.
 2. Los valores de cada celda pueden ser
 	- Positivos o negativos
 	- Enteros o de punto flotante
 	#### <u>Positivos</u>
-	Se utilizan para representar datos categoricos o discretos
+	Se utilizan para representar datos categóricos o discretos
 	#### <u>Punto flotante</u>
 	Representar las superficies continuas
-3. El tamaño de celda determina el grosor o la delgadez con la que aparecerán los patrones o las entidades en el raster.
+3. El tamaño de celda determina el grosor o la delgadez con la que aparecerán los patrones o las entidades en el ráster.
 	> Cuando más pequeño sea el tamaño de la celda, más suave o más detallado será el ráster. Sin embargo, cuanto mayor sea el numero de celdas, mas tiempo tardara en procesar, aumentándose a su vez en la demanda de espacio de almacenamiento.
 
 ***
 #### <u>Proyeccion universal transversal de Mercator (UTM)</u>
-Es un sistema de proyeccion cartografico basado en cuadriculas con el cual se pueden referenciar puntos sobre la superficie terrestre
+Es un sistema de proyección cartográfico basado en cuadriculas con el cual se pueden referenciar puntos sobre la superficie terrestre
 
 ***
 #### <u>Dispositivos raster</u>
