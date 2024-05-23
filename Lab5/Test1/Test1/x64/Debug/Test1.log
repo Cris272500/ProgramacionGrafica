@@ -1,0 +1,8 @@
+﻿  EBO.cpp
+  Main.cpp
+  VAO.cpp
+  VBO.cpp
+  shaderClass.cpp
+C:\Users\PcMaster\source\repos\Test1\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  Generating Code...
+  Test1.vcxproj -> C:\Users\PcMaster\source\repos\Test1\x64\Debug\Test1.exe
