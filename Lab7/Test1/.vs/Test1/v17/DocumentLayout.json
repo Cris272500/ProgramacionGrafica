@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PcMaster\\source\\repos\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A87E81-2026-42CF-8B59-C6B812C6C77A}|Test1.vcxproj|C:\\Users\\PcMaster\\source\\repos\\Test1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A87E81-2026-42CF-8B59-C6B812C6C77A}|Test1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A87E81-2026-42CF-8B59-C6B812C6C77A}|Test1.vcxproj|C:\\Users\\PcMaster\\source\\repos\\Test1\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35A87E81-2026-42CF-8B59-C6B812C6C77A}|Test1.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\Users\\PcMaster\\source\\repos\\Test1\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\Users\\PcMaster\\source\\repos\\Test1\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T18:02:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\PcMaster\\source\\repos\\Test1\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\PcMaster\\source\\repos\\Test1\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T18:01:56.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
